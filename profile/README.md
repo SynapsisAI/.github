@@ -22,10 +22,8 @@ We follow a first-principles approach to text understanding:
 
 ## Projects
 
-### Current Initiatives
-
-#### SynapticCore
+#### core
 
 Our monorepo containing all project components, libraries, and services that power the Synapsis ecosystem. This unified codebase facilitates seamless integration between our decomposition engine, synthesis algorithms, and visualization tools.
 
-[View SynapticCore Repository](https://github.com/SynapsisAI/mono)
+[View core Repository](https://github.com/SynapsisAI/core)
