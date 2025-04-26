@@ -1,4 +1,4 @@
-# Synapsis AI
+# synapsis
 
 > **Complex text to visual clarity.**
 
